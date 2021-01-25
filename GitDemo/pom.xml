@@ -5,9 +5,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.qingwen</groupId>
-    <artifactId>GitDemo</artifactId>
-    <version>1.0</version>
-    <name>GitDemo</name>
+    <artifactId>gitdemo</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <name>gitdemo</name>
     <packaging>war</packaging>
 
     <properties>
