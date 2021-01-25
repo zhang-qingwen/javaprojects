@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="DBService:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>DBService</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="DBService-1.0.war">
+      <element id="artifact" artifact-name="DBService:war exploded" />
+    </root>
+  </artifact>
+</component>
