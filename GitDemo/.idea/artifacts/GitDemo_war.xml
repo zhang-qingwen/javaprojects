@@ -1,14 +1,14 @@
 <component name="ArtifactManager">
-  <artifact type="war" name="GitDemo:war">
+  <artifact type="war" name="gitdemo:war">
     <output-path>$PROJECT_DIR$/target</output-path>
     <properties id="maven-jee-properties">
       <options>
-        <module>GitDemo</module>
+        <module>gitdemo</module>
         <packaging>war</packaging>
       </options>
     </properties>
-    <root id="archive" name="GitDemo-1.0.war">
-      <element id="artifact" artifact-name="GitDemo:war exploded" />
+    <root id="archive" name="gitdemo-1.0.war">
+      <element id="artifact" artifact-name="gitdemo:war exploded" />
     </root>
   </artifact>
 </component>

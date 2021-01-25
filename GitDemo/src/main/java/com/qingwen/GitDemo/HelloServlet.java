@@ -1,4 +1,4 @@
-package com.qingwen.GitDemo;
+package com.qingwen.gitdemo;
 
 import java.io.*;
 import javax.servlet.http.*;
